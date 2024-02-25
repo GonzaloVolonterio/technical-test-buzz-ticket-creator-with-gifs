@@ -40,7 +40,6 @@ https://www.mongodb.com/atlas
 
 .Create Username and password
 
-
 .Connect from "Add My Current ip Adress" -> finish close
 
 .Network access -> Add Ip Access -> confirm
@@ -89,12 +88,5 @@ MONGODB_URI -> same to .env
 
 ---
 
-.ENV
-
-Add to Database
-
-MONGODB_URI 
-
-```
 
 
