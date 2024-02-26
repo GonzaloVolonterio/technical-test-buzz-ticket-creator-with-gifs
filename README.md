@@ -64,7 +64,7 @@ https://www.mongodb.com/atlas
 
 'http://localhost:3000/api/Tickets'
 
----
+--
 
 In app/components/DeleteBlock
 
@@ -72,7 +72,7 @@ In app/components/DeleteBlock
 
 `http://localhost:3000/api/Tickets/${id}`
 
----
+--
 
 In app/Ticket/[id]/page
 
@@ -80,15 +80,17 @@ In app/Ticket/[id]/page
 
 `http://localhost:3000/api/Tickets/${id}`
 
----
+--
 
 .In app/models/Ticket
 
 MONGODB_URI -> same to .env
 
----
+--
 
+```
+![a00-technical-test-buzz-creator-with-gifs](https://github.com/GonzaloVolonterio/technical-test-buzz-ticket-creator-with-gifs/assets/64506662/69828092-2dc5-4a56-ba73-d5916647b01a)
 
-
+![a001-technical-test-buzz-creator-with-gifs](https://github.com/GonzaloVolonterio/technical-test-buzz-ticket-creator-with-gifs/assets/64506662/89ebf5f6-0f89-4660-86f2-36a130bb53bf)
 
 
