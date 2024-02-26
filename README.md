@@ -87,9 +87,7 @@ In app/Ticket/[id]/page
 MONGODB_URI -> same to .env
 
 ---
-![a00-technical-test-buzz-creator-with-gifs](https://github.com/GonzaloVolonterio/technical-test-buzz-ticket-creator-with-gifs/assets/64506662/8e3cc726-5d36-4b8f-98ad-a7b142270528)
 
-![a001-technical-test-buzz-creator-with-gifs](https://github.com/GonzaloVolonterio/technical-test-buzz-ticket-creator-with-gifs/assets/64506662/1115741c-0ba8-4e61-a4a6-96827a7ddcdd)
 
 
 
